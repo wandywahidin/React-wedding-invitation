@@ -1,0 +1,15 @@
+.count {
+    box-sizing: border-box;
+    width: 100vw;
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+}
+.days, .hours, .minutes, .seconds {
+    padding: 10px 10px;
+    margin: 0 auto;
+}
+
+.days h2 {
+    padding: 10px;
+}

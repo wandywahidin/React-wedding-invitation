@@ -1,0 +1,35 @@
+.heading {
+   background-color: #6c757d;
+   color: rgba(255, 255, 255, 0.945);
+   text-shadow: yellow;
+   font-family: 'EB Garamond', serif;
+}
+.heading h1{
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px 0 10px 0;
+}
+.heading h3 {
+    font-size: 15px;
+    
+}
+.heading h2 {
+    font-size: 18px;
+    padding: 0 10px;
+}
+
+.figure-img {
+    border: 5px bold yellow;
+}
+.figure-caption {
+    color: white;
+    padding: 0 10px;
+}
+
+.dan h1 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    margin-top: -30px;
+}

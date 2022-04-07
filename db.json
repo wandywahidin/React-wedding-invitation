@@ -1,0 +1,19 @@
+{
+  "comment": [
+    {
+      "id": 1,
+      "nama": "wandy",
+      "ucapan": "congratulation"
+    },
+    {
+      "nama": "Asep",
+      "ucapan": "selamat atas pernikahan nya",
+      "id": 2
+    },
+    {
+      "nama": "Aho",
+      "ucapan": "happy wedding guys",
+      "id": 3
+    }
+  ]
+}

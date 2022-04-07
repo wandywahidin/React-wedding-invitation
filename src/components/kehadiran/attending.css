@@ -1,0 +1,42 @@
+form{
+    display: flex;
+    flex-direction: column;
+    margin: 5px auto;
+    padding: 10px;
+}
+
+.nama, .ucapan, .kirim {
+    width: 50vw;
+    padding: 5px;
+    margin: 5px auto;
+    font-size: 12px;
+    text-align: start;
+}
+
+.ucapan {
+    height: 20vh;
+    padding-top: -10px;
+    text-align: left;
+}
+.kirim {
+    width: 30vw;
+    text-align: center;
+}
+
+.container-comment {
+    background-color:transparent;
+}
+.container-comment ul {
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px 5px;
+}
+.container-comment ul li {
+    text-align: left;
+    list-style: none;
+    padding: 5px 5px;
+}
+.container-comment ul li h6 {
+    font-size: 1em;
+    font-weight: bold;
+}
